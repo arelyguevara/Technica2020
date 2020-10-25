@@ -1,10 +1,93 @@
 [
     {
-   "title": "Jennifer's Body",
-   "year": "2009" 
-},
-{
-    "title": "The Craft",
-    "year": "1996"
-}
-]
+        "movie_id": "",
+        "title": "It's the Great Pumpkin, Charlie Brown",
+        "year": "1966",
+        "rating": "8.2/10",
+        "scare_level": "1",
+        "quote": "I got a rock.",
+        "synopsis": "The Peanuts gang celebrates Halloween, with Linus hoping that, finally, he will be visited by The Great Pumpkin; while Charlie Brown is invited to a Halloween party." 
+    
+    },
+    {
+        "movie_id": "",
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "year": "2005",
+        "rating": "7.4/10",
+        "scare_level": "1",
+        "quote": "To kill such a creature will require nerves of steel and... a bullet!",
+        "synopsis": "Wallace and his loyal dog, Gromit, set out to discover the mystery behind the garden sabotage that plagues their village and threatens the annual giant vegetable growing contest." 
+    },
+    {
+        "movie_id": "",
+        "title": "Coraline",
+        "year": "2009",
+        "rating": "7.7/10",
+        "scare_level": "2",
+        "quote": "All will be swell, soon as Mother's refreshed. Her strength is our strength...",
+        "synopsis": "An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets." 
+    },
+    {
+        "movie_id": "",
+        "title": "Crimson Peak",
+        "year": "2015",
+        "rating": "6.5/10",
+        "scare_level": "2",
+        "quote": "Where I come from, ghosts are not to be taken lightly.",
+        "synopsis": "In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider. Trying to escape the ghosts of her past, she is swept away to a house that breathes, bleeds - and remembers." 
+    },
+    {
+        "movie_id": "",
+        "title": "The Craft",
+        "year": "1996",
+        "rating": "6.4/10",
+        "scare_level": "2",
+        "quote": "We are the weirdos, mister.", 
+        "synopsis": "A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft, and they all soon conjure up various spells and curses against those who anger them."
+    },
+    {
+       "movie_id": "",
+       "title": "Jennifer's Body",
+       "year": "2009",
+       "rating": "5.2/10",
+       "scare_level": "2",
+       "quote": "I need you hopeless.", 
+       "synopsis": "A newly possessed high school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?"
+    },
+    {
+        "movie_id": "",
+        "title": "The Babadook",
+        "year": "2014",
+        "rating": "6.8/10",
+        "scare_level": "3",
+        "quote": "You can bring me the boy.", 
+        "synopsis": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled 'Mister Babadook' manifests in their home."
+     },
+     {
+        "movie_id": "",
+        "title": "The Nightingale",
+        "year": "2018",
+        "rating": "7.3/10",
+        "scare_level": "3",
+        "quote": "You can tell me to shut up. You can threaten me. But it won't do nothing", 
+        "synopsis": "Set in 1825, Clare, a young Irish convict woman, chases a British officer through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. On the way she enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past."
+     },
+     {
+        "movie_id": "",
+        "title": "Us",
+        "year": "2019",
+        "rating": "6.9/10",
+        "scare_level": "3",
+        "quote": "Once upon a time, there was a girl and the girl had a shadow. The two were connected, tethered together. And the girl ate, her food was given to her warm and tasty. But when the shadow was hungry, she had to eat rabbit raw and bloody.", 
+        "synopsis": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them."
+     },
+     {
+        "movie_id": "",
+        "title": "Get Out",
+        "year": "2017",
+        "rating": "7.7/10",
+        "scare_level": "3",
+        "quote": "A mind is a terrible thing to waste.", 
+        "synopsis": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+     }
+    ]
