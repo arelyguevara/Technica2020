@@ -1,0 +1,11 @@
+.movie__container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.movie__image {
+    padding-bottom: 0.5rem;
+    height: 350px;
+    object-fit: cover;
+    width: 100%;
+}
