@@ -40,12 +40,8 @@ class App extends React.Component {
         <Router>
           <div className="">
             <div className="">
-              {/* shows logo */}
               <div>
-                <img src="https://natran.com/wp-content/uploads/2019/10/pumpkin-2892303_1920.jpg" width="30" height="30" alt="black and white film strip with brand name"/>
-              </div>
-              <div>
-                <p>Halloween Party</p>
+                <p className="title">Halloween Party</p>
               </div>
             </div>
 
@@ -58,13 +54,16 @@ class App extends React.Component {
             </div> 
           </div>
             <Switch>
+              {/* tells where the component is within the app */}
               <Route exact path="/" component={Home}/>
               <Route path="/movie-vault" component={movie}/>
               <Route path="/scare-level" component={scare}/>
             </Switch>
         </Router>
 
-        <h style={{color: "orange"}}>Hello World!</h>
+        
+
+        
        
       </div>
     );

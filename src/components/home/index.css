@@ -1,0 +1,20 @@
+/* hero image */
+
+.main {
+}
+
+/* .hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i.pinimg.com/originals/1c/57/24/1c57240cc2a4cbd3658471f64c65d143.jpg");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
+
+.hero-text {
+    text-align: center;
+
+    color: white;
+  }
+

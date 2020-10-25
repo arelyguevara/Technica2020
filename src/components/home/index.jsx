@@ -8,12 +8,16 @@ class Home extends React.Component {
         return (
             <div className="main">
             {/* main title of the home page */}
-            <h1 style={{color: "orange"}} id="title">Welcome to Halloween Party</h1> 
+
+                <div className="hero-image">
+                    <div className={"hero-text"}>
+                        <h1 id="title">Welcome to Halloween Party</h1> 
+                    </div>
+                </div>
 
  
 
-            {/* linked to the reviews component using routes */}
-            {/* <Link id="reviews" to='/reviews'>View Reviews!</Link> */}
+         
             </div>
         );
     };
